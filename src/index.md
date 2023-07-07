@@ -1,15 +1,15 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
+heroImage: https://cdnimges.vietnamplus.vn/uploaded/wbxx/2022_09_03/11653025898_750x0.jpg
 tagline: 
 actionText: Comenzar →
 actionLink: /guide/
 features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
+- title: Herramientas
+  details: Recapitulación de las principales herramientas y plataformas mencionadas y su importancia en el turismo digital.
+- title: Digital
+  details: Mención de cómo estas herramientas pueden beneficiar a las agencias de turismo y guías turísticos en la era digital.
+- title: Invitación
+  details: Invitación a explorar y utilizar las herramientas y plataformas mencionadas para potenciar las estrategias de turismo digital.
 footer: Made by  with ❤️
 ---
